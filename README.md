@@ -22,5 +22,5 @@ A number of tutorials are presented during the course in the form of Jupyter not
 ## Getting started
 To run the different Jupyter notebooks, participants can either use:
 
-- local Python installation (simply run ``conda env create -f environment. yml``)
+- local Python installation (simply run ``conda env create -f environment.yml``)
 - a Cloud-hosted environment such as Google Colab (use links provided above to open the notebook directly in Colab).
