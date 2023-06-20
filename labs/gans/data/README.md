@@ -1,0 +1,1 @@
+Please extract the compressed data files within each folder to make them accessible for use. These datasets can be obtained from the following repository: https://github.com/LukasMosser/PorousMediaGan.
