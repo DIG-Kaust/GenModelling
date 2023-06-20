@@ -10,17 +10,11 @@ The main teaching material is available in 5 slide decks, covering an introducti
 ## Notebooks
 A number of tutorials are presented during the course in the form of Jupyter notebooks.
 
-| Session   | Exercise (Github) | Exercise (Colab) |
-|-----------|------------------|------------------|
-| EX0: AutoEncoders | [Link](labs/ae/AutoEncoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/DIG-Kaust/GenModelling/blob/main/labs/ae/AutoEncoder.ipynb)  |
-| EX1: VAEs         | [Link](labs/ae/VarAE.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/DIG-Kaust/GenModelling/blob/main/labs/ae/VarAE.ipynb)  |
-| EX2: GANs         | [Link](labs/ae/GANRock.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/DIG-Kaust/GenModelling/blob/main/labs/ae/GANRock.ipynb)  |
-| EX3: NFs          | [Link](labs/ae/NF.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/DIG-Kaust/GenModelling/blob/main/labs/ae/NF.ipynb)  |
-| EX3: Diffusion.   | [Link](labs/ae/DDPM.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/DIG-Kaust/GenModelling/blob/main/labs/ae/DDPM.ipynb)  |
-
-
-## Getting started
-To run the different Jupyter notebooks, participants can either use:
-
-- local Python installation (simply run ``conda env create -f environment.yml``)
-- a Cloud-hosted environment such as Google Colab (use links provided above to open the notebook directly in Colab).
+| Session                | Slides                         | Exercise               | 
+|------------------------|--------------------------------|------------------------|
+| Intro to gen modelling | [Link](slides/1_Intro.pdf)     |                        |
+| AutoEncoders           | [Link](slides/2_VAE.pdf)       | [Link](labs/ae)        |
+| VAEs                   | [Link](slides/2_VAE.pdf)       | [Link](labs/vae)       |
+| GANs                   | [Link](slides/3_GANs.pdf)      | [Link](labs/gans)      |
+| NFs                    | [Link](slides/4_NF.pdf)        | [Link](labs/nf)        | 
+| Diffusion              | [Link](slides/5_Diffusion.pdf) | [Link](labs/diffusion) |
