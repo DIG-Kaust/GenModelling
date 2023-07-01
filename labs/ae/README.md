@@ -19,12 +19,13 @@ We will be using the FossilNET Image dataset that had been collected and curated
 - Trilobites
 
 ## Getting the data
-Utilize the `dataloader_fossilnet.py` script in the `AutoEncoders.ipynb` notebook.
+Utilize the `dataloader_fossilnet.py` script in the `Linear_AutoEncoders.ipynb` and `Convolutional_AutoEncoders.ipynb` notebooks.
 
 ## Dependencies
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
 
 ## Scripts
 The repository includes the following files:
-- :orange_book:`AutoEncoders.ipynb`: The main script. This script loads the FossilNET dataset, builds the autoencoder, and trains it on the dataset.
-- :page_facing_up:`dataloader_fossilnet.py`: The code for loading the FossilNET dataset. This file provides a function that can be used to load the dataset into `AutoEncoders.ipynb` notebook.
+- :orange_book:`Linear_AutoEncoders.ipynb`: The code for implementing simple/linear autoencoder.
+- :orange_book:`Convolutional_AutoEncoders.ipynb`: The code for implementing convolutional autoencoder.
+- :page_facing_up:`dataloader_fossilnet.py`: The code for loading the FossilNET dataset. This file provides a function that can be used to load the dataset into `Linear_AutoEncoders.ipynb` and `Convolutional_AutoEncoders.ipynb` notebooks.
