@@ -26,3 +26,4 @@ dependencies:
     - torchviz
     - lightgbm
     - pyvista
+    - normflows
