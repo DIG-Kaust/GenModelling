@@ -1,5 +1,9 @@
 # Diffusion Models Tutorials
 
+> Generative Adversarial Networks tutorial <br>
+> [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) and [Sara Althubaiti](https://cemse.kaust.edu.sa/cs/people/person/sara-althubaiti).<sup>1</sup> <br>
+> King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
+
 This repository contains code for building a convolutional autoencoder to compress the FossilNET dataset. This can generally be useful for storing and transporting the images, or for speeding up the processing of the images.
 
 #introduction 
@@ -62,12 +66,17 @@ Utilize the `dataloader_fossilnet.py` script in the notebook 1.
 | [Notebook 1](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/username/repo/blob/master/notebook.ipynb][([https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/diffusion/Sakhaa_diffusion_model.ipynb))])  |
 | [Notebook 2](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/username/repo/blob/master/notebook.ipynb]([https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_#scrollTo=5153024b))) |
 
-**Sources and Materials:**
+**▬▬▬▬▬▬Resources and Materials▬▬▬▬▬▬**
 
 - Github implementation [Denoising Diffusion Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 - Niels Rogge, Kashif Rasul, [Huggingface notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb#scrollTo=3a159023)
-- Papers on Diffusion models ([Dhariwal, Nichol, 2021], [Ho et al., 2020] ect.)
 - [Diffusion model tutorial 2](https://huggingface.co/blog/annotated-diffusion) by Rogge & Rasul and follows the [paper](https://arxiv.org/abs/2006.11239) by He et al.
+- [Awesome Diffusion Models Github]([https://www.youtube.com/watch?v=HoKDTa5jHvg&t=1338s](https://github.com/diff-usion/Awesome-Diffusion-Models))
+- [Outlier Diffusion Model Video: Paper Explanation | Math Explained](https://www.youtube.com/watch?v=HoKDTa5jHvg&t=1338s)  
+- [Positional Embeddings](colab.research.google.com/drive/1niCAKS1dJ74_De8Nk_V3_Rx2tpNLadYD#scrollTo=dc8120e5)
 
 
-[Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) and [Sara Althubaiti](https://cemse.kaust.edu.sa/cs/people/person/sara-althubaiti)
+**▬▬▬▬▬▬▬ Papers ▬▬▬▬▬▬▬**
+- Papers on Diffusion models ([Dhariwal, Nichol, 2021], [Ho et al., 2020] ect.)
+- [DDPM](https://arxiv.org/pdf/2006.11239.pdf)
+- [DDPM Improved](https://arxiv.org/pdf/2105.05233.pdf)
