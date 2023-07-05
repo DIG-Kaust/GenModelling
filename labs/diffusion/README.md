@@ -59,7 +59,7 @@ Utilize the `dataloader_fossilnet.py` script in the `Linear_AutoEncoders.ipynb` 
 
 | Notebook  | Colabes| 
 | :---:         |     :---:      |  
-| Notebook 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/username/repo/blob/master/notebook.ipynb][(https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX)](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing))  |
+| Notebook 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/username/repo/blob/master/notebook.ipynb][([https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX](https://github.com/DIG-Kaust/GenModelling/blob/main/labs/diffusion/Sakhaa_diffusion_model.ipynb))])  |
 | Notebook 2  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/username/repo/blob/master/notebook.ipynb]([https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_#scrollTo=5153024b))) |
 
 **Sources and Materials:**
