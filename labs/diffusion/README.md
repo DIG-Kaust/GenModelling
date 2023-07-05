@@ -70,4 +70,4 @@ Utilize the `dataloader_fossilnet.py` script in the notebook 1.
 - [Diffusion model tutorial 2](https://huggingface.co/blog/annotated-diffusion) by Rogge & Rasul and follows the [paper](https://arxiv.org/abs/2006.11239) by He et al.
 
 
-[Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) and Sara Althubaiti
+[Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) and [Sara Althubaiti](https://cemse.kaust.edu.sa/cs/people/person/sara-althubaiti)
