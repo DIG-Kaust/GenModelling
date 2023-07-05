@@ -69,4 +69,4 @@ Utilize the `dataloader_fossilnet.py` script in the `Linear_AutoEncoders.ipynb` 
 - Niels Rogge, Kashif Rasul, [Huggingface notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb#scrollTo=3a159023)
 - Papers on Diffusion models ([Dhariwal, Nichol, 2021], [Ho et al., 2020] ect.)
 
-[Sakhaa Alsaedi] (https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) and Sara Althubaiti
+[Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) and Sara Althubaiti
