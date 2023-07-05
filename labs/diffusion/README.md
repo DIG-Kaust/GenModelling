@@ -50,7 +50,7 @@ We will be using the FossilNET Image dataset that had been collected and curated
 - Trilobites
 
 ## Getting the data
-Utilize the `dataloader_fossilnet.py` script in the `Linear_AutoEncoders.ipynb` and `Convolutional_AutoEncoders.ipynb` notebooks.
+Utilize the `dataloader_fossilnet.py` script in the notebook 1.
 
 ## Dependencies
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
