@@ -1,12 +1,14 @@
 # Diffusion Models Tutorials
 
-> Generative Adversarial Networks tutorial <br>
-> [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi) and [Sara Althubaiti](https://cemse.kaust.edu.sa/cs/people/person/sara-althubaiti).<sup>1</sup> <br>
+This repository contains code for building a diffusion model to compress the FossilNET dataset and generate imges. This can generally be useful for high quality samples, or for model diversity.
+
+![diffusion](https://github.com/Sakhaa-Alsaedi/CS394D/blob/main/45AD5AED-E217-41B4-89D5-2957621ADFBC.jpeg)
+
+> Created by <br>
+> [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> and [Sara Althubaiti](https://cemse.kaust.edu.sa/cs/people/person/sara-althubaiti).<sup>1</sup> <br>
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
 
-This repository contains code for building a convolutional autoencoder to compress the FossilNET dataset. This can generally be useful for storing and transporting the images, or for speeding up the processing of the images.
-
-#introduction 
+# Introduction 
 
 Diffusion models are a type of generative model used in machine learning to generate data that is similar to the data on which they are trained . They work by adding noise to the available training data and then gradually reducing the noise until the generated data closely resembles the training data. Diffusion models are a rising class of generative models because of their power-generating ability and tractability . They can also improve upon existing generative models, such as Generative Adversarial Networks (GANs), by being less reliant on adversarial training.
 
