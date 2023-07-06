@@ -41,7 +41,8 @@ We will be using the FossilNET Image dataset that had been collected and curated
 - Trilobites
 
 ## Getting the data
-Utilize the `dataloader_fossilnet.py` script in the notebook 1.
+- Utilize the `dataloader_fossilnet.py` script in the notebook 1.
+- Use MNIST dataset loader from PyTorch in the notebook 2.
 
 ## Dependencies
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
@@ -63,7 +64,7 @@ Utilize the `dataloader_fossilnet.py` script in the notebook 1.
 - [Positional Embeddings](colab.research.google.com/drive/1niCAKS1dJ74_De8Nk_V3_Rx2tpNLadYD#scrollTo=dc8120e5)
 
 
-* ▬▬▬▬▬▬▬ Papers ▬▬▬▬▬▬▬**
+* ▬▬▬▬▬▬▬ Papers ▬▬▬▬▬▬▬
 - Papers on Diffusion models ([Dhariwal, Nichol, 2021], [Ho et al., 2020] ect.)
 - [DDPM](https://arxiv.org/pdf/2006.11239.pdf)
 - [DDPM Improved](https://arxiv.org/pdf/2105.05233.pdf)
