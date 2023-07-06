@@ -7,5 +7,6 @@ This file contains a number of useful online resources used to prepare the teach
 - AE applications: https://medium.com/edureka/autoencoders-tutorial-cfdcebdefe37
 - Training GANs (tips for stable training): https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/
 - NF: https://www.youtube.com/watch?v=8XufsgG066A, https://www.youtube.com/watch?v=IpbeIwSr7r0 and https://gebob19.github.io/normalizing-flows/
+- NF from scratch: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial11/NF_image_modeling.html#Normalizing-Flows-as-generative-model
 - Diffusion models: https://lilianweng.github.io/posts/2021-07-11-diffusion-models/, https://huggingface.co/blog/annotated-diffusion, and https://www.arxiv-vanity.com/papers/2209.04747/
 - Score-based generative models: https://yang-song.net/blog/2021/score/
