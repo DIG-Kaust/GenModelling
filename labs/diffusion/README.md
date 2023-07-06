@@ -26,7 +26,7 @@ Diffusion models are a type of generative model used in machine learning to gene
 - Step 2: Parameterized backward process ==> NN Model [U-Net (autoencoder)](https://amaarora.github.io/2020/09/13/unet.html)
 - step 3: Positional Encoding ==> [timestep encoding](colab.research.google.com/drive/1niCAKS1dJ74_De8Nk_V3_Rx2tpNLadYD#scrollTo=dc8120e5)
 
-## Dataset :shell:
+## Dataset :shell: (Notebook 1)
 We will be using the FossilNET Image dataset that had been collected and curated by [Matt Hall](https://github.com/kwinkunks) and consists of 3000 colour images at 224x224 resolution, split over 10 classes:
 
 - Ammonites
@@ -39,6 +39,15 @@ We will be using the FossilNET Image dataset that had been collected and curated
 - Gastropods
 - Plants
 - Trilobites
+
+# MNIST-Dataset (Notebook 2)
+Recognizing the Digits from 0-9 using their pixel values as attributes, using Deep Learning Model to Classify the Digits. The original dataset is in a format that is difficult for beginners to use. This dataset uses the work of Joseph Redmon to provide the MNIST dataset in a CSV format. The mnist_train.csv file contains the 60,000 training examples and labels. The mnist_test.csv contains 10,000 test examples and labels. Each row consists of 785 values: the first value is the label (a number from 0 to 9) and the remaining 784 values are the pixel values (a number from 0 to 255).
+
+The dataset consists of two files:
+
+- Mnist_train.csv
+- Mnist_test.csv
+- Mnist_train.csv 
 
 ## Getting the data
 - Utilize the `dataloader_fossilnet.py` script in the notebook 1.
