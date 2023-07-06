@@ -45,7 +45,7 @@ Utilize the `dataloader_fossilnet.py` script in the notebook 1.
 
 # Scripts :space_invader:
 
-| Notebook  | Colabes| 
+| Notebook  | Open In Colab| 
 | :---:         |     :---:      |  
 | [Notebook 1](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()|
 | [Notebook 2](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)|
