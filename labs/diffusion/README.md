@@ -23,7 +23,7 @@ Diffusion models are a type of generative model used in machine learning to gene
 
 # Building the Diffusion Model steps:
 - Step 1: The forward process ==> Noise scheduler
-- Step 2: Parameterized backward process ==> NN Model[U-Net (autoencoder)](https://amaarora.github.io/2020/09/13/unet.html)
+- Step 2: Parameterized backward process ==> NN Model [U-Net (autoencoder)](https://amaarora.github.io/2020/09/13/unet.html)
 - step 3: Positional Encoding ==> [timestep encoding](colab.research.google.com/drive/1niCAKS1dJ74_De8Nk_V3_Rx2tpNLadYD#scrollTo=dc8120e5)
 
 ## Dataset :shell:
@@ -53,7 +53,7 @@ Utilize the `dataloader_fossilnet.py` script in the notebook 1.
 | [Notebook 1](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing)|
 | [Notebook 2](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)|
 
-* ▬▬▬▬▬▬ Resources and Materials ▬▬▬▬▬▬**
+* ▬▬▬▬▬▬ Resources and Materials ▬▬▬▬▬▬
 
 - Github implementation [Denoising Diffusion Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 - Niels Rogge, Kashif Rasul, [Huggingface notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb#scrollTo=3a159023)
