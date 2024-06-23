@@ -1,8 +1,8 @@
 import os
 import os.path
-
+import gdown
 from torchvision.datasets import ImageFolder
-from torchvision.datasets.utils import download_and_extract_archive, verify_str_arg
+from torchvision.datasets.utils import verify_str_arg
 
 
 class FossilNET(ImageFolder):
@@ -17,12 +17,12 @@ class FossilNET(ImageFolder):
         download (bool, optional): If true, downloads the dataset from the internet and
             puts it in root directory. If dataset is already downloaded, it is not
             downloaded again.
-        transform (callable, optional): A function/transform that  takes in an PIL image
+        transform (callable, optional): A function/transform that takes in an PIL image
             and returns a transformed version. E.g, ``transforms.RandomCrop``
         target_transform (callable, optional): A function/transform that takes in the
             target and transforms it.
     """
-    url = 'https://swung-data.s3.amazonaws.com/fossilnet/fossilnet-png-224px.zip'
+    url = 'https://drive.google.com/uc?id=1_2TK0hC_b3mliXajPcobV-eq-3HNXd3q'
     folder = 'fossilnet-png-224px'
     md5 = '83e4f09fc78e3fd996c4e611c2653bf9'
     splits = ('train', 'val', 'test')
@@ -68,9 +68,11 @@ class FossilNET(ImageFolder):
 
         print('Downloading...')
         # download files
-        download_and_extract_archive(self.url, download_root=self.basedir, filename=self.__class__.__name__+".zip", md5=self.md5)
-
-        # process and save as torch files
+        gdown.download(self.url, os.path.join(self.basedir, self.__class__.__name__+".zip"), quiet=False)
+        # Unzipping the file
+        import zipfile
+        with zipfile.ZipFile(os.path.join(self.basedir, self.__class__.__name__+".zip"), 'r') as zip_ref:
+            zip_ref.extractall(self.basedir)
         print('Done!')
 
     def extra_repr(self):
