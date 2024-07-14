@@ -5,6 +5,7 @@ This file contains a number of useful online resources used to prepare the teach
 - AE/VAEs: https://lilianweng.github.io/posts/2018-08-12-vae/
 - VAEs: https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
 - AE applications: https://medium.com/edureka/autoencoders-tutorial-cfdcebdefe37
+- Variational Inference math (with application to VAE): https://jmtomczak.github.io/blog/4/4_VAE.html
 - Training GANs (tips for stable training): https://machinelearningmastery.com/how-to-train-stable-generative-adversarial-networks/
 - NF: https://www.youtube.com/watch?v=8XufsgG066A, https://www.youtube.com/watch?v=IpbeIwSr7r0 and https://gebob19.github.io/normalizing-flows/
 - NF from scratch: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial11/NF_image_modeling.html#Normalizing-Flows-as-generative-model
