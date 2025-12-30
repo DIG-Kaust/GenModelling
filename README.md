@@ -18,3 +18,15 @@ A number of tutorials are presented during the course in the form of Jupyter not
 | GANs                   | [Link](slides/3_GANs.pdf)      | [Link](labs/gans)      |
 | NFs                    | [Link](slides/4_NF.pdf)        | [Link](labs/nf)        | 
 | Diffusion              | [Link](slides/5_Diffusion.pdf) | [Link](labs/diffusion) |
+
+
+## License
+
+The material in this repository is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
